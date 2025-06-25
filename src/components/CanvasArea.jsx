@@ -1,4 +1,3 @@
-// src/components/CanvasArea.jsx
 import React, { useCallback, useState } from 'react';
 import ReactFlow, {
   addEdge,

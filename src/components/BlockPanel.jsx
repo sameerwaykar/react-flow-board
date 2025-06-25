@@ -1,4 +1,3 @@
-// src/components/BlockPanel.jsx
 import React from 'react';
 import { BLOCKS } from '../data/blocks';
 

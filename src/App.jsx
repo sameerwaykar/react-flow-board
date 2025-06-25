@@ -1,4 +1,3 @@
-// src/App.jsx
 import React from 'react';
 import BlockPanel from './components/BlockPanel';
 import CanvasArea from './components/CanvasArea';
